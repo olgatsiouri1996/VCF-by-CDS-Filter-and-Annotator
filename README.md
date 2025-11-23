@@ -7,7 +7,7 @@ When using this software Cite the following:
 3. Tsiouri, O., (2025). VCF by CDS Filter and Annotator: A lightweight Windows x64 GUI app that fliters a vcf file to contain only coding regions and adds coding sequence identifier information. GitHub [https://github.com/olgatsiouri1996/VCF-by-CDS-Filter-and-Annotator](https://github.com/olgatsiouri1996/VCF-by-CDS-Filter-and-Annotator)
 
 ## Installation
-1. From the `Releases` tab download `gff2bed_features.exe` and move it to:
+1. From the `Releases` tab download `gff2bed_features.zip` extract it and move it to:
 ```sh
 C:\Windows\System32
 ```
@@ -33,7 +33,7 @@ echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"' >> ~/.bashrc && so
 ```sh
 sudo ln -s /home/linuxbrew/.linuxbrew/bin/vcfannotate /usr/local/bin/vcfannotate
 ```
-8. From the `Releases` tab download the GUI app `VCF by CDS Filter and Annotator.exe`
+8. From the `Releases` tab download the GUI app `VCF.by.CDS.Filter.and.Annotator.zip` and extract it
 
 ## Usage
 1. Add a gff/gff3 file and a vcf file in a folder with no other files inside:
